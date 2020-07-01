@@ -1,0 +1,1074 @@
+	body{
+			transition-duration: 0.5s;
+			background-color: #DEB887;
+			background-size: cover;
+			padding: 0;
+margin-top: 0;
+		
+		}
+		#left{
+			height: 3050px;
+			width:550px;
+			
+			margin-left: 800px;
+			position: absolute;
+			background-color: #DEB887;
+			overflow: hidden;
+		}
+		#right{
+					height: 3100px;
+			width:950px;
+			
+			margin-left: -20px;
+			
+			position: absolute;
+			background-color: #DEB887;
+			overflow: hidden;
+			
+		}
+		
+		car9{
+						margin-left: 400px;
+
+		}
+		
+		#k1,#k2,#k3,#k4,#k5,#k6,#k7,#k8,#k9,#k10,#k11,#k12,#k13,#k14,#k15,#k16,#k17,#k18,#k19,#k20{
+			width:470px ;
+			margin-top: 300px;
+			position: absolute;
+			
+			
+		}
+		#k1,#k3,#k5,#k7,#k9,#k11,#k13,#k15,#k17,#k19{
+			margin-left: 800px;
+		}
+		#k2,#k4,#k6,#k8,#k10,#k12,#k14,#k16,#k18,#k20{
+			margin-left: 130px;
+		}
+		#k3,#k4{
+			margin-top: 600px
+
+		}
+		#k5,#k6{
+			margin-top: 900px;
+		}
+		#k7,#k8{
+			margin-top: 1200px;
+		}
+		#k9,#k10{
+			margin-top: 1500px;
+
+			
+		}
+		#k11,#k12{
+		margin-top: 1800px;
+
+}
+		#k13,#k14{
+		margin-top: 2100px;
+
+		}
+		#k15,#k16{
+			margin-top: 2400px;
+		}
+		#k17,#k18{
+			margin-top: 2700px;
+			
+		}
+		#k19,#k20{
+						margin-top: 2900px;
+
+}
+		#sh1,#sh2,#sh7,#sh8,#sh9,#sh10{
+			margin-left: 830px;
+			margin-top: 270px;
+			position: absolute;
+			
+		}
+		#sh1,#sh2{
+			margin-left: 810px;
+		}
+		#sh2,#sh8,#sh10{
+			margin-left: 1000px;
+			position: absolute;
+		}
+		#sh3,#sh4,#sh5,#sh6,#sh11,#sh12,#sh13,#sh14,#sh15,#sh16,#sh17,#sh18,#sh19,#sh20,#sh21,#sh22,#sh23,#sh23,#sh24,#sh25,#sh26,#sh26,#sh27,#sh28,#sh29,#sh30,#sh31,#sh32,#sh33,#sh34,#sh35,#sh36,#sh37,#sh38,#sh39,#sh40{
+			margin-top: 310px;
+			position: absolute;
+			margin-left: 170px;
+			width: 200px;
+			
+			
+		}
+		#sh3,#sh4{
+			margin-top: 300px;
+		}
+		#sh4,#sh6,#sh12{
+			margin-left: 350px;
+			position: absolute;
+		}
+		
+		#sh7,#sh8,#sh5,#sh6{
+			margin-top: 590px;
+		}
+		#sh5,#sh6{
+						position: absolute;
+
+						margin-top: 577px;
+			width: 200px;
+			padding-bottom: 0px;
+
+		}
+		#sh5{
+			margin-left: 160px;
+			width: 180px;
+		}
+		#sh6{
+			margin-left: 355px;
+			width: 180px;
+		}
+		#sh9,#sh10,#sh11,#sh12{
+			margin-top: 910px;
+			width: 200px;
+		}
+		#sh11{
+			margin-left: 200px;
+		}
+		#sh13,#sh14,#sh15,#sh16{
+			margin-top: 1185px;
+			width: 200px;
+		}
+		#sh14{
+			margin-left: 370px;
+		}
+		#sh15,#sh16{
+			margin-left: 1000px;
+			margin-top: 1210px;
+				
+		}
+		#sh15{
+			margin-left: 830px;
+		}
+		#sh16{
+			margin-left: 1015px;
+		}
+		#sh17,#sh18,#sh21,#sh22,#sh25,#sh26{
+			margin-left: 330px;
+						width: 200px;
+
+			margin-top: 1490px;
+		}
+		#sh18{
+						margin-left: 160px;
+
+			
+		}
+		#sh19,#sh20,#sh23,#sh24,#sh27,#sh28{
+			margin-left: 990px;
+			width: 220px;
+						margin-top: 1490px;
+
+		}
+		#sh19{
+									margin-left: 815px;
+
+		}
+		#sh21,#sh22,#sh23,#sh24{
+			margin-top: 1790px;
+			
+		}
+		#sh22{
+			margin-left: 170px;
+		}
+		#sh24,#sh27{
+			margin-left: 810px;
+		}
+		#sh25{
+			margin-left: 150px;
+		}
+		#sh25,#sh26,#sh27,#sh28{
+			margin-top: 2090px;
+		}
+		#sh27,#sh28{
+			margin-top: 2040px;
+		}
+		#sh29,#sh30{
+			margin-left: 330px;
+						width: 220px;
+
+			margin-top: 2355px;
+		}
+		#sh29{
+			margin-left: 150px;
+		}
+		#sh31,#sh32{
+		margin-top: 2315px;
+			margin-left: 1020px;
+			width: 200px;
+
+			
+			
+		}
+		#sh31{
+			margin-left: 820px;
+		}
+		#sh33,#sh34,#sh35,#sh36{
+			margin-top: 2655px;
+			
+		}
+		#sh34{
+			margin-left: 350px;
+		}
+		#sh35,#sh36{
+			margin-left: 1020px;
+			margin-top: 2680px;
+		}
+		#sh35{
+			margin-left: 840px;
+		}
+		#sh37,#sh38{
+			width: 200px;
+			margin-top: 2935px;
+		}
+		#sh38{
+			
+			margin-left: 370px;
+}
+		#sh39,#sh40{
+			margin-top: 2865px;
+			width: 200px;
+			margin-left: 1050px;
+		}
+		#sh39{
+			margin-left:890px;
+		}
+		#sh7,#sh8,#sh5,#sh6{
+			transition-delay: 0s;
+		transition-duration: 5s;
+			animation-name: top1;
+			animation-duration: 10s;
+			display: inline;
+			
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+		}
+
+		
+		@keyframes morg{
+			0%{
+
+			
+				
+				margin-top: 250px;
+			}
+			50%{
+						
+				margin-top: 610px;
+
+			}
+			100%{
+				margin-top: 110px;
+			}
+			
+
+			}
+		
+		@keyframes top1{
+			0%{
+				margin-top: 580px;
+				
+			}
+			50%{
+				margin-top: 80px;
+			}
+			100%{
+				margin-top:80px;
+	}
+			
+		}
+		
+		#car111{
+			
+			margin-left: 570px;
+			margin-top: 300px;
+			width: 270px;
+			animation-name: morg;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+			display: none;
+			
+			
+			
+						
+		}
+		
+		
+		
+			
+		
+		
+		#car1,#car2,#car3,#car4,#car5,#car6,#car7,#car8,#car10,#car11,#car22,#car33,#car44,#car55,#car66,#car77,#car88,#car100,#car99,#car9,#car111{
+			position: absolute;
+			margin-left: 570px;
+			margin-top: 300px;
+			width: 270px;
+	
+			
+			display: none;
+		}
+		#car1{
+			animation-name: car1;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+			display: none;
+		}
+		
+			
+		
+		@keyframes car1{
+			0%{
+					
+				margin-top: 120px;
+			}
+			50%{
+				margin-top:310px;
+			}
+			100%{
+						
+				margin-top: 120px;
+			}
+			
+				
+			}
+		@keyframes kotch1{
+			0%{
+				margin-top: 270px;
+				
+			}
+			50%{
+				margin-top: 80px
+			}
+			100%{
+				margin-top:  80px;
+			}
+		}
+			@keyframes kotch2{
+			0%{
+				margin-top: 300px;
+				
+			}
+			50%{
+				margin-top: 115px
+			}
+			100%{
+				margin-top:  115px;
+			}
+			
+			}
+		#sh1,#sh2{
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name: kotch1;
+			animation-duration: 10s;
+			display: inline;
+			width: 200px;
+			
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+		}
+		#sh3,#sh4{
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name: kotch2;
+			animation-duration: 10s;
+			display: inline;
+			width: 200px;
+			
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+
+		}
+		#sh9,#sh10,#sh11,#sh12{
+			
+				transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotch3 ;
+			animation-duration: 10s;
+			width: 200px;
+			
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+
+		}
+		#car2{
+				animation-name: car2;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+			display: none;
+			animation-timing-function: ease;
+		}
+		
+		@keyframes kotch3{
+			0%{
+					
+				margin-top:910px;
+
+			}
+			50%{
+				margin-top: 75px;
+			}
+			100%{
+						
+				margin-top: 75px;
+
+			}
+			
+				
+			}
+		@keyframes car2{
+			0%{
+				margin-top: 270px;
+				
+			}
+			50%{
+				margin-top: 930px
+			}
+			100%{
+				margin-top:  80px;
+			}
+		}
+		#sh13,#sh14{
+				transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotch4;
+			animation-duration: 10s;
+			width: 200px;
+			
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+			
+		}
+		#car3{
+				animation-name: car3;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+			display: none;
+			animation-timing-function: ease;
+			
+		}
+		@keyframes kotch4{
+			0%{
+				margin-top: 1178px;
+			}
+			50%{
+				margin-top:90px;
+				
+			}
+			100%{
+				margin-top:90px;
+			}
+		}
+		@keyframes car3{
+			0%{
+				margin-top: 270px;
+			}
+			50%{
+				margin-top: 1209px;
+			}
+			100%{
+				margin-top: 110px;
+				
+			}
+		}
+		#sh15,#sh16{
+				transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotch44;
+			animation-duration: 10s;
+			width: 200px;
+			
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+			
+		}
+		@keyframes kotch44{
+			0%{
+								margin-top: 1210px;
+
+			}
+			50%{
+								margin-top: 100px;
+
+			}
+			100%{
+								margin-top: 100px;
+
+				
+			}
+		}
+		#sh17,#sh18,#sh19,#sh20{
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotch5;
+			animation-duration: 10s;
+			width: 200px;
+			
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+			
+		}
+		#car4{
+			animation-name: car4;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+			display: none;
+			animation-timing-function: ease;
+			
+		}
+		@keyframes kotch5{
+			0%{
+				margin-top:1500px;
+			}
+			50%{
+				margin-top: 75px;
+			}
+			100%{
+								margin-top: 75px;
+
+			}
+		}
+		@keyframes car4{
+			0%{
+				margin-top: 270px;
+			}
+			50%{
+				margin-top: 1510px;
+				
+			}
+			100%{
+				margin-top: 80px;
+				
+			}
+		}
+		#sh17,#sh18,#sh19,#sh20{
+			margin-top: 1510px;
+		}
+		
+		#sh21,#sh22,#sh23,#sh24{
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotsh7;
+			animation-duration: 10s;
+			width: 200px;
+			margin-top: 1810px;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+			
+		}
+		#car6{
+			animation-name: car6;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+			display: none;
+			animation-timing-function: ease;
+}
+		@keyframes kotsh7{
+			0%{
+				margin-top: 1810px;
+			}
+			50%{
+				margin-top: 75px;
+			}
+			100%{
+				margin-top: 75px;
+			}
+		}
+		@keyframes car6{
+			0%{
+				margin-top: 270px;
+			}
+			50%{
+				margin-top:  1820px;
+			}
+			100%{
+				margin-top:  75px;
+			}
+		}
+		#sh25,#sh26,#sh27,#sh28{
+				transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotsh8;
+			animation-duration: 10s;
+			width: 200px;
+			margin-top: 2110px;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+			
+		}
+		#sh27,#sh28{
+			margin-top: 2060px;
+			animation-name:kotsh88;
+			animation-duration: 10s;
+			width: 200px;
+			
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+		}
+		#car7{
+			animation-name: car7;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+			display: none;
+			animation-timing-function: ease;
+		}
+		@keyframes kotsh8{
+			0%{
+				margin-top: 2110px;
+			}
+			50%{
+				margin-top: 75px;
+			}
+			100%{
+				margin-top: 75px;
+				
+			}
+		}
+		@keyframes car7{
+			0%{
+				margin-top: 270px;
+				
+			}
+			50%{
+				margin-top: 2120px;
+			}
+			100%{
+				margin-top: 70px;
+			}
+		}
+		@keyframes kotsh88{
+			0%{
+				margin-top: 2060px;
+			}
+			50%{
+				margin-top: 20px;
+			}
+			100%{
+				margin-top: 20px;
+				
+			}
+		}
+		#sh31,#sh32{
+	animation-name:kotsh9;
+			animation-duration: 10s;
+			width: 200px;
+			transition-duration: 5s;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+		}
+		
+		@keyframes kotsh9{
+			0%{
+				margin-top: 2310px;
+			}
+			50%{
+				margin-top: 0px;
+			}
+			100%{
+				margin-top: 0px;
+			}
+		}
+		#car8{
+				animation-name: car8;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+			display: none;
+			animation-timing-function: ease;
+		}
+		@keyframes car8 {
+			0%{
+				margin-top: 270px;
+			}
+			50%{
+				margin-top: 2420px;
+			}
+			100%{
+				margin-top: 105px;
+			}
+		}
+		
+		@keyframes kotsh99{
+			0%{
+				margin-top: 2360px;
+			}
+			50%{
+				margin-top: 45px;
+			}
+			100%{
+				margin-top: 45px;
+			}
+		}
+		
+		#sh29,#sh30{
+			
+			animation-name:kotsh99;
+			animation-duration: 10s;
+			width: 200px;
+			transition-duration: 5s;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+		
+			
+		}
+		#sh33,#sh34{
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotsh10;
+			animation-duration: 10s;
+			width: 200px;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+						animation-timing-function: ease;
+			
+
+		
+		}
+		#car9{
+				animation-name: car9;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+			display: none;
+			animation-timing-function: ease;
+}
+		@keyframes kotsh10{
+			0%{
+				margin-top: 2660px;
+			}
+			50%{
+				margin-top: 45px;
+			}
+			100%{
+				margin-top: 45px;
+			}
+			
+			
+		}
+		@keyframes car9{
+			0%{
+				margin-top: 270px;
+			}
+			50%{
+				margin-top: 2720px;
+			}
+			100%{
+				margin-top: 105px;
+			}
+		}
+		#sh36{
+			margin-left:1020px;
+			margin-top: 2680px;
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotsh10;
+			animation-duration: 10s;
+			width: 200px;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+			animation-timing-function: ease;
+			
+			
+		}
+		#sh35{
+			margin-left: 840px;
+			margin-top: 2680px;
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotsh10;
+			animation-duration: 10s;
+			width: 200px;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+			animation-timing-function: ease;
+			
+		}
+			@keyframes kotsh11{
+			0%{
+				margin-top: 2690px;
+			}
+			50%{
+				margin-top: 75px;
+			}
+			100%{
+				margin-top: 75px;
+			}
+			
+		}
+		#sh35,#sh36{
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotsh11;
+			animation-duration: 10s;
+			width: 200px;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+			animation-timing-function: ease;
+			
+		}
+		
+		
+		
+		
+		#sh39,#sh40{
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotsh12;
+			animation-duration: 10s;
+			width: 200px;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+			animation-timing-function: ease;
+			
+			
+		}
+		#car10{
+				animation-name: car10;
+			transition-duration: 5s;
+			animation-duration: 10s;
+			animation-iteration-count: 1;
+			animation-fill-mode: forwards;
+			display: none;
+			animation-timing-function: ease;
+			
+		}
+			@keyframes car10{
+			0%{
+				margin-top: 270px;
+			}
+			50%{
+				margin-top: 2910px;
+			}
+			100%{
+				margin-top: 105px;
+			}
+		}
+		@keyframes kotsh12{
+			0%{
+				margin-top: 2862px;
+			}
+			50%{
+				margin-top: 55px;
+			}
+			100%{
+				margin-top: 55px;
+			}
+			
+		}
+		@keyframes kotsh122{
+			0%{
+				margin-top: 2932px;
+			}
+			50%{
+				margin-top: 130px
+			}
+			100%{
+				margin-top: 130px;
+			}
+			
+		}
+		#sh37,#sh38{
+			transition-delay: 0s;
+			transition-duration: 5s;
+			animation-name:kotsh122;
+			animation-duration: 10s;
+			width: 200px;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-play-state: paused;
+			animation-fill-mode: forwards;
+			animation-timing-function: ease;
+			
+		}
+		
+/* Global */
+html{
+  min-height: 100%;
+	
+}
+body{
+  color: saddlebrown;
+  font-family: 'Anonymous Pro', monospace;  
+  background-color: rgb(25,25,25);  
+}
+.line-1{
+    position: absolute;
+    width: 24em;
+    margin: 0 auto;
+    border-right: 2px solid rgba(255,255,255,.75);
+    font-size: 180%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    transform: translateY(-50%);    
+	margin-top: 50px;
+	margin-left: 400px;
+}
+
+/* Animation */
+.anim-typewriter{
+  animation: typewriter 4s steps(22) 1s 1 normal both,
+             blinkTextCursor 500ms steps(44) infinite normal;
+}
+@keyframes typewriter{
+  from{width: 0;}
+  to{width: 24em;}
+}
+@keyframes blinkTextCursor{
+  from{border-right-color: rgba(255,255,255,.75);}
+  to{border-right-color: transparent;}
+}
+	
+		#show{
+
+			position: absolute;
+			width: 100px;
+			height: 100px;
+			opacity: 100%;
+			animation-name: lun;
+			animation-iteration-count: 1;
+			animation-delay: 5s;
+			animation-duration: 10s;
+			animation-fill-mode: forwards;
+			animation-timing-function: ease;
+			margin-top: 0px;
+			margin-left: -100px;
+			animation-play-state: paused;
+
+
+				
+		}
+		@keyframes lun{
+			0%{
+margin-top: 0px;
+				margin-left: -100px;
+			}
+			50%{
+				margin-left: 660px;
+				position: absolute;
+				z-index: 1;
+				
+			}
+			100%{
+				margin-left: 1300px;
+								visibility: hidden;
+
+				position: absolute;
+				z-index: 1;
+				
+			}
+		}
+		#go{
+			position: absolute;
+			width: 250px;
+			height: 250px;
+			opacity: 100%;
+			animation-name: saaad;
+			animation-delay: 5s;
+			animation-duration: 10s;
+			animation-fill-mode: forwards;
+			animation-timing-function: ease;
+			animation-play-state: paused;
+			margin-top: 25px;
+			margin-left: -200px;
+			
+			
+		}
+		@keyframes saaad{
+			0%{
+				margin-top: 25px;
+			margin-left: -200px;
+			}
+
+			50%{
+			margin-top: 25px;
+
+							margin-left: 560px;
+
+
+			}
+			100%{
+												margin-top: 170px;
+											margin-left: 560px;
+							position: absolute;
+z-index: 1;
+
+
+			}
+		}
+		#btn{
+			display: none;
+			position: absolute;
+			margin-top: 100px;
+			margin-left:800px;
+			color: white;
+		}
